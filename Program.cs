@@ -6,9 +6,8 @@ namespace TestingGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Changing");
-            Console.WriteLine("Xoá dòng này đi đm :))");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(num);
         }
     }
 }
