@@ -6,7 +6,7 @@ namespace TestingGithub
     {
         public static void hello()
         {
-
+            Console.WriteLine("Con Cac");
         }
 
         public static void hello2()
