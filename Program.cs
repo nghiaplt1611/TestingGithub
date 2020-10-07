@@ -8,6 +8,7 @@ namespace TestingGithub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changing");
+            Console.WriteLine("Xoá dòng này đi đm :))");
         }
     }
 }
