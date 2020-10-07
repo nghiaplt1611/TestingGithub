@@ -4,13 +4,22 @@ namespace TestingGithub
 {
     class Program
     {
+        public static void hello()
+        {
+
+        }
+
+        public static void hello2()
+        {
+
+        }
+
         static void Main(string[] args)
         {
 
-            int num = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(num);
+            hello();
+            hello2();
 
-            Console.WriteLine("code moi``````````````````````````");
 
         }
     }
