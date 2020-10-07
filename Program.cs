@@ -11,7 +11,7 @@ namespace TestingGithub
 
         public static void hello2()
         {
-
+            Console.WriteLine("Nghia day");
         }
 
         static void Main(string[] args)
